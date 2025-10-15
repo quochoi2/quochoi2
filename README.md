@@ -32,6 +32,4 @@ Here are some of my favorite projects:
 ### 📫 How to Reach Me
 - **Email:** nguyenquochoibacninh@gmail.com
 - **Portfolio:** https://yourportfolio.vercel.app
-- <!--
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
--  -->
+<!-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile) -->
