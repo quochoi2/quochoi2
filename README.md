@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hello, I'm [Your Name]
 
-<!--
-**quochoi2/quochoi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Full-Stack Developer`**
 
-Here are some ideas to get you started:
+I'm passionate about building amazing web applications with modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** JavaScript, React, Next.js, HTML, CSS
+- **Backend:** Node.js, Express, MongoDB
+- **Tools:** Git, Docker, Vercel
+
+### 📌 Pinned Projects
+Here are some of my favorite projects:
+
+### 📫 How to Reach Me
+- **Email:** your.email@example.com
+- **Portfolio:** https://yourportfolio.vercel.app
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+---
+⭐️ From [yourusername](https://github.com/yourusername)
