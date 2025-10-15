@@ -7,6 +7,14 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<!-- Introduction -->
+## 🚀 About Me
+- 🔭 I'm currently working on **My Portfolio Website**
+- 🌱 I'm currently learning **Next.js, TypeScript, Docker**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, JavaScript, Web Development**
+- 📫 How to reach me: **your.email@gmail.com**
+
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
 **Frontend:**
