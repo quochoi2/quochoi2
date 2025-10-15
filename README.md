@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Hoi</h1>
 <h3 align="center">A passionate full-stack developer from Vietnam</h3>
 
 <!-- Badges -->
@@ -7,21 +7,31 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-### 🛠️ Tech Stack
-- **Frontend:** JavaScript, React, Next.js, HTML, CSS
-- **Backend:** Node.js, Express, MongoDB
-- **Tools:** Git, Docker, Vercel
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+**Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ### 📌 Pinned Projects
 Here are some of my favorite projects:
 
 ### 📫 How to Reach Me
-- **Email:** your.email@example.com
+- **Email:** nguyenquochoibacninh@gmail.com
 - **Portfolio:** https://yourportfolio.vercel.app
+- <!--
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
----
-⭐️ From [yourusername](https://github.com/yourusername)
+-  -->
